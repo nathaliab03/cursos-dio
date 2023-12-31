@@ -1,0 +1,43 @@
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\bin\Debug\net8.0\Estacionamento.exe
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\bin\Debug\net8.0\Estacionamento.deps.json
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\bin\Debug\net8.0\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\bin\Debug\net8.0\Estacionamento.pdb
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\bin\Debug\net8.0\Estacionamento.exe
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\bin\Debug\net8.0\Estacionamento.deps.json
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\bin\Debug\net8.0\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\bin\Debug\net8.0\Estacionamento.pdb
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\Fundamentos Desafio - Trilha\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\bin\Debug\net8.0\Estacionamento.exe
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\bin\Debug\net8.0\Estacionamento.deps.json
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\bin\Debug\net8.0\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\bin\Debug\net8.0\Estacionamento.pdb
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\obj\Debug\net8.0\Estacionamento.sourcelink.json
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\obj\Debug\net8.0\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\obj\Debug\net8.0\refint\Estacionamento.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\obj\Debug\net8.0\Estacionamento.pdb
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Cursos Dio\Decola Tech 2024\Fundamentos Desafio - Trilha\DesafioFundamentos\obj\Debug\net8.0\ref\Estacionamento.dll

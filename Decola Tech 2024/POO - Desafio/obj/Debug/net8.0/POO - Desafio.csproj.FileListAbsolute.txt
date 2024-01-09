@@ -1,0 +1,14 @@
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\bin\Debug\net8.0\POO - Desafio.exe
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\bin\Debug\net8.0\POO - Desafio.deps.json
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\bin\Debug\net8.0\POO - Desafio.runtimeconfig.json
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\bin\Debug\net8.0\POO - Desafio.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\bin\Debug\net8.0\POO - Desafio.pdb
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\obj\Debug\net8.0\POO - Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\obj\Debug\net8.0\POO - Desafio.AssemblyInfoInputs.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\obj\Debug\net8.0\POO - Desafio.AssemblyInfo.cs
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\obj\Debug\net8.0\POO - Desafio.csproj.CoreCompileInputs.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\obj\Debug\net8.0\POO - Desafio.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\obj\Debug\net8.0\refint\POO - Desafio.dll
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\obj\Debug\net8.0\POO - Desafio.pdb
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\obj\Debug\net8.0\POO - Desafio.genruntimeconfig.cache
+C:\Users\anath\OneDrive\Área de Trabalho\ADS\Testes Cursos\Decola Tech\POO - Desafio\obj\Debug\net8.0\ref\POO - Desafio.dll

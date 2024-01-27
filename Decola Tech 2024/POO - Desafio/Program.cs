@@ -29,13 +29,13 @@ else
     switch(option){
         case 1:
         Smartphone nokia = new Nokia(number: number, model: model, imei: imei, memory: memory);
-        nokia.Call(11151292691);
+        nokia.Call();
         nokia.AppInstall("Whatsapp");
         break;
 
         case 2:
         Smartphone iphone = new Iphone(number: number, model: model, imei: imei, memory: memory);
-        iphone.Call(11151292691);
+        iphone.Call();
         iphone.AppInstall("Whatsapp");
         break;
     }
